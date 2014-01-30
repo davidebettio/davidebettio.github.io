@@ -4,13 +4,31 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://davidebettio.github.io/atom.xml" rel="self"/>
   <link href="http://davidebettio.github.io/"/>
-  <updated>2014-01-04T17:13:12+01:00</updated>
+  <updated>2014-01-30T16:27:14+01:00</updated>
   <id>http://davidebettio.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Davide Bettio]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world 2]]></title>
+    <link href="http://davidebettio.github.io/blog/2014/01/04/hello-world-2/"/>
+    <updated>2014-01-04T17:47:18+01:00</updated>
+    <id>http://davidebettio.github.io/blog/2014/01/04/hello-world-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="http://davidebettio.github.io/blog/2014/01/04/hello-world/"/>
+    <updated>2014-01-04T17:27:06+01:00</updated>
+    <id>http://davidebettio.github.io/blog/2014/01/04/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
